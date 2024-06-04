@@ -62,3 +62,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local.
 
 ## Licencia
     Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
+
+## Contacto 
+   Autor: Miguee
+   LinkedIn: www.linkedin.com/in/miguee03
